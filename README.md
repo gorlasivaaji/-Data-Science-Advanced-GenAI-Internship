@@ -29,4 +29,62 @@ To build a strong foundation in Python programming and computational thinking re
 ---
 
 ## 📂 Repository Structure
+python-basics/
+├── hello_world.py
+├── arithmetic.py
+├── division.py
+├── if_else.py
+├── loops.py
+├── print_function.py
+├── leap_year.py
+
+
+
+---
+
+## 💡 Key Implementations
+
+### 🔹 Arithmetic Operations
+Performs addition, subtraction, and multiplication of user inputs.
+
+### 🔹 Division Operations
+Demonstrates integer (`//`) and floating-point (`/`) division.
+
+### 🔹 Conditional Logic
+Implements decision-making using multiple conditions.
+
+### 🔹 Loops & Iteration
+Generates sequences and performs repeated computations.
+
+### 🔹 Output Formatting
+Prints values in customized formats.
+
+### 🔹 Leap Year Checker
+Determines whether a given year is a leap year using logical conditions.
+
+---
+
+## 📈 Achievements
+
+- ✔ Completed multiple HackerRank Python challenges  
+- ✔ Achieved **100% Accepted submissions**  
+- ✔ Strengthened core programming and logical thinking  
+- ✔ Built a strong foundation for advanced Data Science topics  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** Python 3  
+- **Platform:** HackerRank  
+- **Concepts:** Core Programming, Logic Building, Algorithms  
+
+---
+
+## ▶️ How to Run
+
+Clone the repository:
+```bash
+git clone https://github.com/your-username/Data-Science-Advanced-GenAI-Internship.git
+cd Data-Science-Advanced-GenAI-Internship
 
